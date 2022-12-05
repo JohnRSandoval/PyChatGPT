@@ -66,6 +66,7 @@ There are two ways to use this API wrapper - you can either call the functions d
  4. With the flask server running, call a get request to:
 
 	 `http://localhost:5000/chat?q=`
+	 
     `q(uery) = message to send to chatGPT`
 
 # Response Example:
