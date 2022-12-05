@@ -9,13 +9,13 @@ Talk is cheap, show me the code.
  1. Clone the github repo to your machine.
  2. Edit the username/password in the chatGPTAPI.py file to your chatGPT login info:
 
-    USERNAME = "USER"
-    PASSWORD = "Pass"
+    `USERNAME = "USER"`
+    `PASSWORD = "Pass"`
 
  3. Edit the path to chromedriver in the chatGPTAPI.py file:
 	  
 
-    executable_path = r'c:\chromedriver.exe'
+    `executable_path = r'c:\chromedriver.exe'`
 	
 
  4. Save changes!
