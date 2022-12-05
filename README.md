@@ -10,6 +10,7 @@ Talk is cheap, show me the code.
  2. Edit the username/password in the chatGPTAPI.py file to your chatGPT login info:
 
     `USERNAME = "USER"`
+    
     `PASSWORD = "Pass"`
 
  3. Edit the path to chromedriver in the chatGPTAPI.py file:
